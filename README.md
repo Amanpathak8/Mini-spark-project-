@@ -36,11 +36,7 @@ This serves as a mini ETL (Extract, Transform, Load) pipeline using PySpark, sui
    - Set environment variables: `SPARK_HOME` and add to `PATH`.
 
 ## Usage
-1. **Clone the Repository**:
-   ```
-   git clone https://github.com/your-username/mini-project-1-pyspark.git
-   cd mini-project-1-pyspark
-   ```
+1. **Clone the Repository
 
 2. **Prepare Data**:
    - Place `customers.csv` and `orders.csv` in a directory (e.g., `./data/`).
