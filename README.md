@@ -98,8 +98,6 @@ This serves as a mini ETL (Extract, Transform, Load) pipeline using PySpark, sui
 ## Contributing
 Feel free to fork and submit pull requests. Issues and suggestions are welcome!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Built with PySpark on Databricks.
